@@ -11,5 +11,6 @@ public class HelloGit {
         System.out.println("master update");
         System.out.println("hot-fix commit");
         System.out.println("gitHub push");
+        System.out.println("gitHub pull");
     }
 }
